@@ -5,7 +5,7 @@
 ## Technology Stack
 
 ## Team Members
-- Czajkowski Dariusz
-- Kiełtyka Michał
-- Miszkurka Agnieszka
-- Radliński Ignacy
+- [Czajkowski Dariusz](https://github.com/DCzajkowski)
+- [Kiełtyka Michał](https://github.com/Defozo)
+- [Miszkurka Agnieszka](https://github.com/agnieszka-miszkurka)
+- [Radliński Ignacy](https://github.com/radlinskii)
