@@ -3,3 +3,9 @@
 ## Idea
 
 ## Technology Stack
+
+## Team Members
+- Czajkowski Dariusz
+- Kiełtyka Michał
+- Miszkurka Agnieszka
+- Radliński Ignacy
