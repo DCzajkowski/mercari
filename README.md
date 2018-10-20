@@ -1,5 +1,10 @@
 # Mercari Euro Hack 2018 - e1337 Team
 
+## Repositories
+
+https://github.com/DCzajkowski/mercari-backend
+https://github.com/DCzajkowski/mercari-frontend
+
 ## Idea
 Nowadays, there are more and more sharing economy companies. Furthermore, fast growing companies like Mercari is expanding to new markets. In those new markets, Mercari doesn't have any users with ratings. They need to sell or buy something in order to get reviews and become trustworthy. That slows conquering new markets.
 
@@ -10,8 +15,8 @@ Our goal is to make sharing economy users look trustworthy from the beggining of
 We will be using AWS for highly scalable, available, reliable, and fast solution. To make our product more reliable we want to use blockchain so that the data is kept safe and transparent.
 
 ## Technology Stack
-- NodeJS or Python or PHP or Java for the backend
-- React or Vue for the frontend
+- NodeJS or Java for the backend
+- React for the frontend
 - Blockchain
 - AWS, Docker etc.
 
