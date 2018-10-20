@@ -2,9 +2,11 @@
 
 ## Repositories
 
-https://github.com/DCzajkowski/mercari-backend
+Frontend: https://github.com/Defozo/mercari-frontend
 
-https://github.com/DCzajkowski/mercari-frontend
+Backend: https://github.com/Defozo/Sharating-laravel
+
+Microservice - Blockchain Provider: https://github.com/Defozo/sharating-blockchain-provider
 
 ## Idea
 
