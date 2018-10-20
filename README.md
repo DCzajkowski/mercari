@@ -1,18 +1,19 @@
 # Mercari Euro Hack 2018 - e1337 Team
 
 ## Idea
-Nowadays sharing economy services offer us more comfortable, eco-friendly, and satisfying life.
+Nowadays, there are more and more sharing economy companies. Furthermore, fast growing companies like Mercari is expanding to new markets. In those new markets, Mercari doesn't have any users with ratings. They need to sell or buy something in order to get reviews and become trustworthy. That slows conquering new markets.
 
-However, when you want to join a new the community you might find it difficult to convince people to trust you. It also works the other way round; when you want to find someone to babysit your child, rent an apartment from for a few days or walk your dog you do not want to ask a random, unknown person.
+For another example, when you want to find someone to babysit your child, rent an apartment from for a few days or walk your dog you do not want to ask a random, unknown person. But a person with ratings from other services like Uber (which itself has over 1.5 million drivers) is much more trustworthy than a person without any ratings.
 
-We want to change that!
+Our goal is to make sharing economy users look trustworthy from the beggining of their new adventure.
 
-Our goal is to make sharing economy users look trustworthy from the beggining of their new adventure. To achieve this we will enable them to use their reviews from other sharing economy platforms, like Uber and Ebay. That will provide us with enough data to display for each user as Uber itself has over 1.5 milion drivers. To make our product more reliable we want to use blockchain so that the data is kept safe and transparent.
+We will be using AWS for highly scalable, available, reliable, and fast solution. To make our product more reliable we want to use blockchain so that the data is kept safe and transparent.
 
 ## Technology Stack
-- NodeJS or Python or PHP for the backend
+- NodeJS or Python or PHP or Java for the backend
 - React or Vue for the frontend
 - Blockchain
+- AWS, Docker etc.
 
 ## Team Members
 - [Czajkowski Dariusz](https://github.com/DCzajkowski)
