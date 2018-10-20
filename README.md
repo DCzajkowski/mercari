@@ -10,7 +10,7 @@ https://github.com/DCzajkowski/mercari-frontend
 
 ### Problem
 
-Nowadays, there are more and more sharing economy companies. Furthermore, fast growing companies like Mercari is expanding to new markets. In those new markets, Mercari doesn't have any users with ratings. They need to sell or buy something in order to get reviews and become trustworthy. That slows conquering new markets.
+Nowadays, there are more and more sharing economy companies. Furthermore, fast growing companies like Mercari are expanding to new markets. In those new markets, Mercari doesn't have any users with ratings. They need to sell or buy something in order to get reviews and become trustworthy. That slows conquering new markets.
 
 For another example, when you want to find someone to babysit your child, rent an apartment from for a few days or walk your dog you do not want to ask a random, unknown person.
 
