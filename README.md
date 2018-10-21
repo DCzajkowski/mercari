@@ -31,10 +31,10 @@ https://sharatin.gq/
 Please use Allegro provider.
 
 ## Technology Stack
-- NodeJS or Java for the backend
+- PHP and Java for the backend
 - React for the frontend
-- Blockchain
-- AWS, Docker etc.
+- Blockchain-based Ethereum network
+- AWS
 
 ## Team Members
 - [Czajkowski Dariusz](https://github.com/DCzajkowski)
