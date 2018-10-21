@@ -1,4 +1,4 @@
-# Mercari Euro Hack 2018 - e1337 Team
+# SHA(rating) - e1337 Team 
 
 ## Repositories
 
