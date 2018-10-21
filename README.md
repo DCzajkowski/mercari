@@ -24,6 +24,12 @@ Our goal is to make sharing economy users look trustworthy from the beggining of
 
 We will be using AWS for highly scalable, available, reliable, and fast solution. To make our product more reliable we will  use blockchain so that the data is kept safe and transparent.
 
+## Demo
+
+https://sharatin.gq/
+
+Please use Allegro provider.
+
 ## Technology Stack
 - NodeJS or Java for the backend
 - React for the frontend
