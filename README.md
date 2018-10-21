@@ -1,4 +1,6 @@
-# SHA(rating) - e1337 Team 
+# Mercari Euro Hack 2018 - e1337 Team
+
+![ezgif com-crop](https://user-images.githubusercontent.com/26116041/47264782-5fa1b080-d51d-11e8-9e15-7bd6a4460477.gif)
 
 ## Repositories
 
@@ -34,7 +36,13 @@ Please use Allegro provider.
 - PHP and Java for the backend
 - React for the frontend
 - Blockchain-based Ethereum network
+
+![super-slajd](https://user-images.githubusercontent.com/26116041/47264796-a68fa600-d51d-11e8-9fbd-87c6502a5ae8.gif)
+
 - AWS
+
+![aws 4](https://user-images.githubusercontent.com/26116041/47264788-81029c80-d51d-11e8-9a03-36f873c3d0e6.png)
+
 
 ## Team Members
 - [Czajkowski Dariusz](https://github.com/DCzajkowski)
