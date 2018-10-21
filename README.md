@@ -10,6 +10,8 @@ Microservice - Blockchain Provider: https://github.com/Defozo/sharating-blockcha
 
 ## Idea
 
+Presentation: https://docs.google.com/presentation/d/1yBLLKArUPKHyq-FVCyVSRcRtcWiT7J0Bh_-NB5g8SO4/edit?usp=sharing
+
 ### Problem
 
 Nowadays, there are more and more sharing economy companies. Furthermore, fast growing companies like Mercari are expanding to new markets. In those new markets, Mercari doesn't have any users with ratings. The consumers need to sell or buy something in order to get reviews and become trustworthy. That slows conquering new markets.
